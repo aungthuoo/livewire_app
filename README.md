@@ -403,8 +403,7 @@ http://127.0.0.1:8000/products
 ```
 
 Output: 
-
-![Screenshot from 2024-04-14 10-23-06](https://gist.github.com/assets/6800568/eb906172-98da-4786-ae0d-9ded53b4f981)
+![Screenshot from 2024-04-14 10-23-06](https://github.com/aungthuoo/livewire_app/assets/6800568/8be154b0-bd7a-4cfd-bd03-33adf99c9acf)
 
 
 Ref : [Laravel 10 Livewire CRUD Application Tutorial](https://www.allphptricks.com/laravel-10-livewire-crud-application-tutorial/?utm_source=pocket_reader)
